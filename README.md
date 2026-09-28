@@ -220,6 +220,12 @@ The application automatically seeds a dataset of **42 synthetic feedback records
 
 ---
 
+## 🔗 Links
+
+- **Live Demo:** https://user-feedback-synthesizer-microsoft.onrender.com/
+- **GitHub:** https://github.com/hima08656/user-feedback-synthesizer-microsoft
+- **Hindsight:** https://github.com/vectorize-io/hindsight
+
 ## 9. Limitations & Future Improvements
 
 - **Real-time Webhook Streaming**: Currently ingests via REST API and interactive forms; can be extended with native Zendesk, Jira, and Slack webhook listeners.
