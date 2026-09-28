@@ -231,3 +231,13 @@ The application automatically seeds a dataset of **42 synthetic feedback records
 - **Real-time Webhook Streaming**: Currently ingests via REST API and interactive forms; can be extended with native Zendesk, Jira, and Slack webhook listeners.
 - **Multi-Tenant Memory Scoping**: Hindsight supports multiple banks and scoped tags (`observation_scopes`); future versions can partition feedback by customer tier (Enterprise vs. Free) or regional market.
 - **Multimodal Feedback**: Hindsight supports `ImageContentBlock`; future versions can directly ingest bug screenshots and video screen recordings.
+
+## 📊 Demo Data
+
+> **Note:** The initial feedback records included in this deployment are
+> synthetic demonstration data created to showcase the application's
+> multi-channel analysis, sentiment tracking, emerging-theme detection,
+> and product-change comparison features.
+
+New feedback submitted through the application can be analyzed and
+stored through the live application workflow.
